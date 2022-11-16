@@ -1,8 +1,8 @@
-<<<<<<< HEAD
+
 # Multiclass Classification Model Using a Custom Convolutional Neural Network in TensorFlow 
-=======
+
 # Bike Sharing Case Study
->>>>>>> abfcbed (first commit)
+
 To build a CNN based model which can accurately detect melanoma. Melanoma is a type of cancer that can be deadly if not detected early. It accounts for 75% of skin cancer deaths. A solution that can evaluate images and alert dermatologists about the presence of melanoma has the potential to reduce a lot of manual effort needed in diagnosis.
 
 
@@ -24,17 +24,9 @@ To build a CNN based model which can accurately detect melanoma. Melanoma is a t
 
 
 ## General Information
-<<<<<<< HEAD
 
 - CNN based model which can accurately detect melanoma.
 - Evaluate images and alert dermatologists about the presence of melanoma. -->
-
-
-=======
- 
-- CNN based model which can accurately detect melanoma.
-- evaluate images and alert dermatologists about the presence of melanoma
->>>>>>> abfcbed (first commit)
 
 ## Conclusions
 
@@ -65,7 +57,7 @@ To build a CNN based model which can accurately detect melanoma. Melanoma is a t
 
 ## Acknowledgements
 
-- This project was based on live uprgrad session on EDA and Case Study Anaylsis
+- This project was based on live uprgrad session on Case Study Anaylsis
 
 
 
