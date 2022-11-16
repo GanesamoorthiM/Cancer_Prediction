@@ -26,15 +26,23 @@ To build a CNN based model which can accurately detect melanoma. Melanoma is a t
 ## General Information
 
 - CNN based model which can accurately detect melanoma.
-- Evaluate images and alert dermatologists about the presence of melanoma. -->
+- Evaluate images and alert dermatologists about the presence of melanoma. 
 
 ## Conclusions
 
-- Accurecy: Training: More than90% Validation:Nearly 80%
+Accuracy Before applying Augumentation :
+-   Traning DS:89%
+-   Validation DS:52%
+-   Based on this model we can conclude it's a overfit model
+-   We may add another few layers to increase the accuracy of the model
+-   We need to remove the BatchNormalization layers.
+-   it indicates Overfit in the model.
 
-- model accuracy has improved
-
-- the class rebalance has helped treat the overfitting to some extent.
+Accuracy After applying Augumentation
+-   Training: More than90% 
+-   Validation:Nearly 80%
+-   model accuracy has improved
+-   the class rebalance has helped treat the overfitting to some extent.
 
 - more epochs and more layers can be used to build much better model
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
